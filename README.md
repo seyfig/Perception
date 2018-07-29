@@ -1,7 +1,7 @@
 [//]: # (References)
 [1]: ./writeup_report.md "Project Report"
 
-# 3D Perception Procejt
+# 3D Perception Project
 
 [Udacity Robotics NanoDegree Term 1 Follow Me : Deep Learning Project](https://github.com/udacity/RoboND-Perception-Project)
 
